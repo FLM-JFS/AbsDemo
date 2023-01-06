@@ -6,7 +6,7 @@ public abstract class  Child1 extends Parent1{
 	}
 	
 	void m5() {
-		System.out.println("");
+		System.out.println("Hello");
 	}
 
 	
